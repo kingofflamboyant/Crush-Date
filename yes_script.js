@@ -1,4 +1,4 @@
-console.log("Made with love by - Urvish Patel ❣️");
+console.log("Made with love by - Gulraiz Khan ❣️");
 console.log("Original website is here : https://urvish-xyz.github.io/crush_date/");
 
 
