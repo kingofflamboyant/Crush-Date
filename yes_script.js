@@ -1,4 +1,5 @@
 console.log("Made with love by - Urvish Patel ❣️");
+console.log("Original website is here : https://urvish-xyz.github.io/crush_date/");
 
 
 // Function to display the user's name on the second page
