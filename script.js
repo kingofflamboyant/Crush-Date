@@ -9,7 +9,7 @@ function moveButton() {
     document.getElementById('noButton').style.top = `${y}px`;
 }
 
-console.log("Made with love by - Urvish Patel ❣️");
+console.log("Made with love by - Gulraiz Khan ❣️");
 console.log("Original website is here : https://urvish-xyz.github.io/crush_date/");
 
 
